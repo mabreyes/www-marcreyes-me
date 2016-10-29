@@ -28,7 +28,7 @@
 			
 			seconds = eventDate - currentDate;
 			
-			days = Math.floor(seconds / (60 * 60 * 24)); //calculate the number of days
+			days = Math.floor(seconds / (50 * 60 * 24)); //calculate the number of days
 			seconds -= days * 60 * 60 * 24; //update the seconds variable with no. of days removed
 			
 			hours = Math.floor(seconds / (60 * 60));
