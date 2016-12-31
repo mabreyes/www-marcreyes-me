@@ -995,7 +995,7 @@ header .social-links ul li a:focus {
 }
 
 #home.home-particles {
-	background: #020507;
+	background: #034e4a;
 	overflow: hidden;
 }
 #home.home-particles .pg-canvas {
@@ -1004,7 +1004,7 @@ header .social-links ul li a:focus {
 	left: 0;
 	height: 100% !important;
 	width: 100% !important;
-	opacity: .12;
+	opacity: 0.5;
 }
 #home.home-particles .shadow-overlay {
 	display: none;
