@@ -78,16 +78,16 @@
               					<span class="count" style="font-size:270px;margin-bottom:-30px;color:#212121;letter-spacing:-20px;">2017</span>
 						<script type="text/javascript">
 						$('.count').each(function () {
-		    					$(this).prop('Counter',0).animate({
-		        				Counter: $(this).text()
-		    					}, {
-		        				duration: 2500,
-		        				easing: 'swing',
-		        				step: function (now) {
-		           			 		$(this).text(Math.ceil(now));
-		       					 	}
-		    					});
-						});
+		    $(this).prop('Counter',0).animate({
+		        Counter: $(this).text()
+		    }, {
+		        duration: 2500,
+		        easing: 'swing',
+		        step: function (now) {
+		            $(this).text(Math.ceil(now));
+		        }
+		    });
+		});
 						</script>
             	</div>
 
