@@ -1,6 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address, address updated to match
+// Failed to reach client, need to fix
 $siteOwnersEmail = 'marcreyesmedia@gmail.com';
 
 
