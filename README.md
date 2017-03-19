@@ -1,18 +1,17 @@
-# [Global: HTML5 website template](http://buckymaler.com/featured-work/global)
+# [Marc X Portfolio Website](https://www.marcreyes.me)
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+### A portfolio website by Marc Reyes
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+Marc X is a dev + design start-up by [Marc Reyes](https://www.facebook.com/marcxph). Started in 2013, the start-up aims to provide cheaper web development and design alternatives for students and professionals.
 
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik)
+Site is proudly hosted with [GitHub pages](https://pages.github.com/).
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/featured-work/global)
+DESIGN ARCHIVE
+* [January 2017](https://www.marcreyes.me/archive/Jan-2017/)
 
 ## Misc:
 
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+* Follow Marc X: [Facebook](https://facebook.com/marcreyesph), [GitHub](https://github.com/marcreyesph)
+* Follow Marc Reyes: [Facebook](https://facebook.com/marcxph), [Twitter](https://twitter.com/marcreyesph)
