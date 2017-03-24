@@ -8,7 +8,7 @@ Site is proudly hosted with [GitHub pages](https://pages.github.com/).
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
-DESIGN ARCHIVE
+**DESIGN ARCHIVE**
 * [January 2017](https://www.marcreyes.me/archive/Jan-2017/)
 
 ## Misc:
