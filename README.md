@@ -6,7 +6,7 @@ Marc X is a dev + design start-up by [Marc Reyes](https://www.facebook.com/marcx
 
 Site is proudly hosted with [GitHub pages](https://pages.github.com/).
 
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+This project was developed with HTML5, Sass, jQuery, and [Hammer.js](https://hammerjs.github.io).
 
 **DESIGN ARCHIVE**
 * [January 2017](https://www.marcreyes.me/archive/Jan-2017/)
