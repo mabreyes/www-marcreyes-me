@@ -16,6 +16,9 @@
     if ((host == window.location.host) && (window.location.protocol != "https:"))
         window.location.protocol = "https";
     </script>
+
+    <style type="text/css"> a.link_prompt_error {background:#0f33ff;text-decoration:none; padding:0.6em; color:#fff;}
+    </style>
 </head>
 <body>
 
@@ -184,7 +187,8 @@
           <li class="l-section section">
             <div class="hire">
               <h2>What do you want me to do?</h2>
-              <!-- checkout formspree.io for easy form setup -->
+              <p style="font-size:1.5em;text-align:center;">We're currently experiencing a server issue as of the moment. We request to fill up this form now. <br> <br><a class="link_prompt_error" target="_new" href="http://po.st/mrserviceform">Fill up form</a></p>
+              <!-- checkout formspree.io for easy form setup --> <!--
               <form class="work-request" action="https://formspree.io/marcreyesmedia@gmail.com" method="POST">
                 <div class="work-request--options">
                   <span class="options-a">
@@ -262,8 +266,8 @@
                     <label for="email">Email</label>
                   </div>
                 </div>
-                <input type="submit" value="Send Request">
-              </form>
+                <input type="submit" value="Send Request" disabled>
+              </form> -->
             </div>
           </li>
         </ul>
